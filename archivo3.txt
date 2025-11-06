@@ -1,0 +1,2 @@
+Creado archivo3.txt en formato .txt sin cambios realizados.
+Cambio 1, sin hacer commit y sin hacer add.
